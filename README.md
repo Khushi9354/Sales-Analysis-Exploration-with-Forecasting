@@ -81,10 +81,6 @@ Presented the forecast results through intuitive visualizations.
 
 - Mapped sales and profit data geographically, providing a spatial perspective on business performance.
 
-### Usage
-
-**To explore this project:**
-- [Access the Power BI report here](https://app.powerbi.com/groups/me/reports/3eed4a08-cc60-4cc1-a0c1-2eaa35771cc0/ReportSection?exper)
 
 - ### Feedback and Contributions
 
